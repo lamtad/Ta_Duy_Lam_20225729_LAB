@@ -5,7 +5,7 @@ public class Equation{
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);
 	while(true){
-	System.out.println("Please enter numbers of x:");
+	System.out.println("Please enter the number of variables (1 for linear, 2 for system of equations, 3 for quadratic, or any other key to exit):");
 		int n = sc.nextInt();
 		if(n == 1){
 		System.out.println("Please enter a & b:");
