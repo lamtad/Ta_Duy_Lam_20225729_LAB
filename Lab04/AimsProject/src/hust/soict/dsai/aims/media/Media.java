@@ -1,3 +1,4 @@
+package hust.soict.dsai.aims.media
 import java.util.Comparator;
 
 public abstract class Media{
