@@ -3,16 +3,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-import hust.soict.dsai.aims.media.Book;
-import hust.soict.dsai.aims.media.Cart;
-import hust.soict.dsai.aims.media.CompactDisc;
-import hust.soict.dsai.aims.media.DigitalVideoDisc;
-import hust.soict.dsai.aims.media.Media;
-import hust.soict.dsai.aims.media.Playable;
-import hust.soict.dsai.aims.media.Store;
-import hust.soict.dsai.aims.media.Track;
-
-
 public class Aims{
     public static void showMenu() { 
 
